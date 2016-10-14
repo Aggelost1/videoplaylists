@@ -1,0 +1,24 @@
+d:\用户目录\我的文档\visual studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.csprojResolveAssemblyReference.cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Form1.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Form2.resources
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.exe.config
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.exe
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.pdb
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.exe
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.pdb
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Form2.resources
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.baseForm.resources
+C:\Users\Administrator\Desktop\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.Form1.resources
+C:\Users\Administrator\Desktop\tests\playlists\Youtubeplaylists\Youtubeplaylists\bin\Debug\Youtubeplaylists.exe.config
+C:\Users\Administrator\Desktop\tests\playlists\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.exe
+C:\Users\Administrator\Desktop\tests\playlists\Youtubeplaylists\Youtubeplaylists\obj\Debug\Youtubeplaylists.pdb

@@ -1,0 +1,9 @@
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\x64\Debug\Youtubeplaylists.exe.config
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\x64\Debug\Youtubeplaylists.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\bin\x64\Debug\Youtubeplaylists.pdb
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.Form1.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.Form2.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.Properties.Resources.resources
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.csproj.GenerateResource.Cache
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.exe
+D:\用户目录\我的文档\Visual Studio 2015\Projects\Youtubeplaylists\Youtubeplaylists\obj\x64\Debug\Youtubeplaylists.pdb
